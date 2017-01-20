@@ -1,0 +1,92 @@
+body
+{
+    font-family: inherit;
+	background-image: url(../img/footer_lodyas.png);
+    /* Background pattern from subtlepatterns.com */
+    margin: 0;
+}
+
+.container
+{
+    background-color: gray;
+    width: 1000px;
+    height: 800px;
+    margin: auto;
+}
+
+.logo
+{
+    background-image: url(../img/footer_lodyas.png);
+    width: 1000px;
+    height: 150px;
+    margin: auto;
+}
+
+.logo_img
+{
+    width: 1000px;
+    height: 150px;
+}
+
+.news
+{
+    width: auto;
+    height: 20px;
+    color: yellow;
+    background-color: black;
+    font-size: 12px;
+    font-stretch: semi-condensed;
+}
+
+.nav
+{
+    background-color: coral;
+    width: 150px;
+    height: 600px;
+    float: left;
+}
+
+.content
+{
+    background-color: skyblue;
+    width: 680px;
+    height: 600px;
+    float: left;
+}
+
+.content_img
+{
+    width: 680px;
+    height: 150px;
+}
+
+.sidebar
+{
+    background-color: teal;
+    width: 170px;
+    height: 600px;
+    float: left;
+}
+
+.sidebar_img
+{
+    width: 170px;
+    height: 600px;
+    float: left;
+    margin: auto;
+}
+
+.footer
+{
+    background-color: pink;
+    width: 1000px;
+    height: 30px;
+    clear: both;
+}
+
+.timer
+{
+    color: black;
+    font-family: sans-serif;
+    font-size: 10px;
+}

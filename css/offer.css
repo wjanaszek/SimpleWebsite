@@ -1,0 +1,15 @@
+.table
+{
+    width: inherit;
+    text-align: center;
+    font-family: sans-serif;
+    border-bottom-style: groove;
+    border-bottom-color: black;
+    border-left-style: groove;
+    border-left-color: black;
+    border-top-style: groove;
+    border-top-color: black;
+    border-right-style: groove;
+    border-right-color: black;
+    border-spacing: inherit;
+}
